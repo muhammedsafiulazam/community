@@ -1,0 +1,27 @@
+keys,en,fr
+mangue,Mango,Mangue
+retry,Retry,Réessayez
+congratulation,Congratulation!,Félicitations!
+sorry,Sorry!,Pardon!
+oops,Oops!,Oups!
+error,Oops! Something went wrong!,Oups! Quelque chose a mal tourné!
+settings,Settings,Réglages
+ok,Ok,D'accord
+cancel,Cancel,Annuler
+restart,Restart,Redémarrer
+update,Update,Mise à jour
+save,Save,Sauver
+search,Search,Rechercher
+localization,Localization,Localisation
+camera,Camera,Caméra
+microphone,Microphone,Microphone
+gallery,Gallery,Galerie
+storage,Storage,Stockage
+notifications,Notifications,Notifications
+unknown,Unknown,Inconnue
+dots,...,...
+na,n/a,n/a
+not_available,Not available.,Indisponible.
+crash,Crash,Crash
+restart_application_message,Sorry! Unexpected error occured.\nPlease restart application.,Désolé ! Une erreur inattendue s'est produite.\nVeuillez relancer l'application.
+error_crash_error_stack,Error:\n{error}\n\nStack:\n{stack},Error:\n{error}\n\nStack:\n{stack}

@@ -1,0 +1,18 @@
+keys,en,fr
+community,Community,Community
+users,Users,Utilisateurs
+members,Members,Membres
+algorithm,Algorithm,Algorithme
+name_first,First Name,Prénom
+name_last,Last Name,Nom
+nationality,Nationality,Nationalité
+gender,Gender,Sexe
+male,Male,Homme
+female,Female,Femme
+calculate,Calculate,Calculer
+products,Products,Produits
+containers,Containers,Conteneurs
+error_products,Products must be between 1 and 9.,Produits doivent être compris entre 1 et 9.
+hints_products,Ex. 87329,Ex. 87329
+search,Search,Rechercher
+hints_search,Ex. Abc,Ex. Abc
