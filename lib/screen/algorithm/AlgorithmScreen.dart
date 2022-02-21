@@ -17,9 +17,6 @@ import 'AlgorithmScreenWidget.dart';
 /// Algorithm screen.
 class AlgorithmScreen extends Screen<AlgorithmScreenWidget> {
 
-  // Form key.
-  final _mFormKey = GlobalKey<FormState>();
-
   // Validators.
   final RegExp _mNumberRegExp = RegExp("[1-9]");
 
