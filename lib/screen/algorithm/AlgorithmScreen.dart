@@ -98,6 +98,10 @@ class AlgorithmScreen extends Screen<AlgorithmScreenWidget> {
         _mBoxes = Algorithm.calculate(_mProducts!);
       } else {
         _mBoxes = null;
+
+        // Show error.
+        SnackBar snackBar = SnackBar(content: Text(I18nExt.error_products));
+        ScaffoldMessenger.of(context).showSnackBar(snackBar);
       }
     });
   }
